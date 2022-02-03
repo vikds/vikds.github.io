@@ -27,8 +27,8 @@ You can always solve my problem on Dijkstra's solution from [ACM ICPC 2007 (quat
 
 ------
 
-<p align="left">
-  <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikds&layout=compact&langs_count=10" align="center"/>
-</p>
+[![LeetCode vikds](https://leetcode-stats-six.vercel.app/api?username=vikds)](https://leetcode.com/vikds)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikds&layout=compact)](https://www.tiobe.com/tiobe-index)
 
 ------
