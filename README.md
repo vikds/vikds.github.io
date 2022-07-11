@@ -1,6 +1,6 @@
 ### I'm a Lead Software Engineer at [VK.com](https://vk.company/).
 
-Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://en.wikipedia.org/wiki/Vladivostok) 🌊)
+Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.com/watch?v=ZQW47HmNUlg) 🌊)
 
 ### For several years I've been developing projects:
 
