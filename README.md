@@ -6,10 +6,12 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.
 
 1. Web-search engine (data processing, indexer, searcher): [go.mail.ru](https://go.mail.ru/)
 2. Personal recommendations feed (backend): [pulse.mail.ru](https://pulse.mail.ru/)
+3. Online classified (backend): [youla.ru](https://youla.ru/)
 
+------
 ### Currently I'm developing:
 
-3. Online classified (backend): [youla.ru](https://youla.ru/)
+4. TODO: ...
 
 ------
 
