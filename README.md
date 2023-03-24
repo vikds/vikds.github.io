@@ -11,8 +11,6 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.
 ------
 ### Currently I'm developing:
 
-4. TODO: ...
-
 ------
 
 I love [Data Structures and Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) 🤖, [C++](https://www.stroustrup.com/) 📝, [LeetCode](https://leetcode.com/vikds/) 📈 and to hit the [puck](https://www.nhl.com/player/nikita-kucherov-8476453) 🏒
