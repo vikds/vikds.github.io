@@ -19,6 +19,8 @@ I love [Data Structures and Algorithms](https://en.wikipedia.org/wiki/Introducti
 
 You can always solve my problem on Dijkstra's solution from [ACM ICPC 2007 (quaterfinal)](https://imcs.dvfu.ru/cats/static/problem_text-cpid-611741.html)
 
+My small interview at [CS HSE](https://cs.hse.ru/alumni/interview/vikharev)
+
 ------
 
 ### You can find me on:
