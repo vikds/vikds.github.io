@@ -5,7 +5,7 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.
 ### For several years I've been developing projects:
 
 1. Web-search engine (data processing, indexer, searcher): [go.mail.ru](https://go.mail.ru/)
-2. Personal recommendations feed (backend): [pulse.mail.ru](https://pulse.mail.ru/)
+2. Personal recommendations feed (backend): [pulse.mail.ru](https://pulse.mail.ru/) (currently: [dzen.ru](https://dzen.ru/))
 3. Online classified (backend): [youla.ru](https://youla.ru/)
 
 ------
