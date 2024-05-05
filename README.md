@@ -1,4 +1,4 @@
-### I'm a Lead Software Engineer at [VK.com](https://vk.company/).
+### I'm a Lead Team Lead at [VK.com](https://vk.company/).
 
 Currently I live in Moscow 🇷🇺 (I'm from [Nakhodka](https://en.wikipedia.org/wiki/Nakhodka) and [Vladivostok](https://www.youtube.com/watch?v=ZQW47HmNUlg) 🌊)
 
